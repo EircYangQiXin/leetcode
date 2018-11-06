@@ -16,7 +16,7 @@ Complete [solutions](https://github.com/doocs/leetcode/tree/master/solution) to 
 ## Solution List
 
 ### Easy
-
+aa
 | # | Title | Tags |
 |---|---|---|
 | 0001 | [Two Sum](https://github.com/doocs/leetcode/tree/master/solution/0001.Two%20Sum) | `Array`, `Hash Table` |
