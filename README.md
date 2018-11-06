@@ -16,7 +16,7 @@ Complete [solutions](https://github.com/doocs/leetcode/tree/master/solution) to 
 ## Solution List
 
 ### Easy
-aa
+
 | # | Title | Tags |
 |---|---|---|
 | 0001 | [Two Sum](https://github.com/doocs/leetcode/tree/master/solution/0001.Two%20Sum) | `Array`, `Hash Table` |
@@ -131,5 +131,5 @@ I'm looking for long-term contributors/partners to this repo! Send me [PRs](http
 |---|---|---|---|---|---|---|---|
 | <center> [<img src="https://avatars3.githubusercontent.com/u/20679510?v=4" width="80px;"/>](https://github.com/Mrzhudky) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/44309823?v=4" width="80px;"/>](https://github.com/KongJHong) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/18181519?v=4" width="80px;"/>](https://github.com/limbowandering) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/37685012?v=4" width="80px;"/>](https://github.com/jxdeng3989) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/44314231?v=4" width="80px;"/>](https://github.com/igayhub) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/30177307?v=4" width="80px;"/>](https://github.com/MCN1998) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/5793058?v=4" width="80px;"/>](https://github.com/Fairyhead) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/24841082?v=4" width="80px;"/>](https://github.com/zhng1456) </center> |
 | <center> [<img src="https://avatars3.githubusercontent.com/u/32598987?v=4" width="80px;"/>](https://github.com/xiapengchng) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/37660444?v=4" width="80px;"/>](https://github.com/Mcnwork2018) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/22535595?v=4" width="80px;"/>](https://github.com/bluesword12350) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/39827514?v=4" width="80px;"/>](https://github.com/ashwek) </center> |
-
+gitHub let me !
 <!-- ALL-CONTRIBUTORS-LIST:END -->
